@@ -8,4 +8,4 @@ To use this feature, you have to install FiJi in the latest version and correct 
 This user interface is developed as contribution in the iGEM competition from iGEM TU Darmstadt.
 All documentation can be found by now on 2017.igem.org/Team:TU_Darmstadt/tech/software
 
-The software comes at it is, no warranty.
+The software comes as it is, no warranty.
